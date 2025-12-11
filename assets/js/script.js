@@ -123,11 +123,6 @@ const slides = [
     bgColor: "#2292CD",
   },
   {
-    title: "YELLOW <br> EDITION",
-    image: "./assets/images/yellow_edition.png",
-    bgColor: "#F2BF00",
-  },
-  {
     title: "RED <br> EDITION",
     image: "./assets/images/red_edition.png",
     bgColor: "#D82110",
